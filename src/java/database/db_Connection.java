@@ -14,10 +14,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- *
- * @author lenovo
- */
 public class db_Connection {
 
     private String dburl = "jdbc:mysql://localhost:3306/shop";

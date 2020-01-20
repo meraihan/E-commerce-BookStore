@@ -1,9 +1,3 @@
-<%-- 
-    Document   : addToCart
-    Created on : 16 Nov, 2012, 1:42:23 AM
-    Author     : chirag
---%>
-
 <%@page import="user.user"%>
 <%@page import="cart.cart"%>
 <%@page import="java.util.ArrayList"%>

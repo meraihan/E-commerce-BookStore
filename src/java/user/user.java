@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author chirag
+ * @author Sayed Mahmud Raihan
  */
 public class user {
     public String userEmail = null;
